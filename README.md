@@ -6,7 +6,13 @@ By no means is this a comprehensive guide or claims to complete or free of error
 This is just to provide the audience with all materials used in the talk.
 
 Presentation slides can be found in the [__Arduino_Präsentation.pdf__](https://github.com/momsi/Talk_Arduino/blob/main/Arduino_Pr%C3%A4sentation.pdf).
+
+You may clone this Repo, but bear in mind that I used VSCode, so either you also use that, or you copy/paste the source code.
+
 Code files can by found in the [__Code/include/__](https://github.com/momsi/Talk_Arduino/tree/main/Code/include) folder.
+
+Necessary Libraries are found in the [__/Code/lib/__](https://github.com/momsi/Talk_Arduino/tree/main/Code/lib) folder.
+
 
 For better guidance to get startet I highly recommend the following recources:
 
