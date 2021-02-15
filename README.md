@@ -1,9 +1,12 @@
 # Talk about Arduino and microcontroller
 
-This Repo contains the presentation and code files of the Arduino Talk (Workgroup internal). 
+This Repo contains the presentation and code files of the Arduino Talk (Workgroup internal).
 
 By no means is this a comprehensive guide or claims to complete or free of errors.
 This is just to provide the audience with all materials used in the talk.
+
+Presentation slides can be found in the [__Arduino_Präsentation.pdf__](https://github.com/momsi/Talk_Arduino/blob/main/Arduino_Pr%C3%A4sentation.pdf).
+Code files can by found in the [__Code/include/__](https://github.com/momsi/Talk_Arduino/tree/main/Code/include) folder.
 
 For better guidance to get startet I highly recommend the following recources:
 
